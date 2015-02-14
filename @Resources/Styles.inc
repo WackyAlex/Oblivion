@@ -292,6 +292,7 @@ FontFace=#Font2#
 FontSize=12
 AntiAlias=1
 ClipString=1
+
 [StyleGMail]
 StringAlign=CenterCenter
 StringCase=UPPER
