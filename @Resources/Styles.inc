@@ -339,3 +339,15 @@ FontFace=#Font2#
 FontSize=12
 AntiAlias=1
 ClipString=1
+
+[StyleMusicTimecode]
+StringAlign=Left
+StringCase=UPPER
+StringStyle=Normal
+StringEffect=None
+FontEffectColor=0,0,0,0
+FontColor=#Color11#
+FontFace=#Font#
+FontSize=10
+AntiAlias=1
+ClipString=1
