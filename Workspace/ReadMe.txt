@@ -17,6 +17,7 @@ o-------------------------------------o
 o-------------------------------------o
  - h.g.manifold@gmail.com -or- /u/hgmanifold
  - cole.friesen@hotmail.com -or- /u/Cole_the_Kosmonaut
+ - alexprkns7@gmail.com -or- /u/WackyAlex
  
 o-------------------------------------o
  LICENSE & CREDITS
